@@ -1,6 +1,4 @@
 Hi, I’m @xVice
-- 📫 How to reach me, you dont
+- 📫 How to reach me, `_jupe_` on discord
 
-<!---
-I do program c:
---->
+
